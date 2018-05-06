@@ -38,7 +38,9 @@ class ResourceLongViewHolder(
         view.setOnClickListener({ onResourceClickListener(resource) })
         resourceName.text = resource.name
         dateModified.text = resource.modified
-        if (!resource.isDir) {
+        if (resource.isDir) {
+            size.text = ""
+        } else {
             size.text = formatSize(resource.contentLength)
         }
 
