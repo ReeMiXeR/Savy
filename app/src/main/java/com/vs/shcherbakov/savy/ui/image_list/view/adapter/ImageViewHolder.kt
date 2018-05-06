@@ -23,8 +23,8 @@ class ImageViewHolder(
                     .load(GlideUrl(resource.previewUrl, LazyHeaders.Builder()
                             .addHeader("Authorization", "OAuth " + PrefStorageImpl(view.context).getUserToken())
                             .build()))
-                    .placeholder(R.drawable.ic_image)
                     .centerCrop()
+                    .placeholder(R.drawable.ic_image)
                     .into(view.image)
         } else {
             view.image.setImageResource(R.drawable.ic_image)

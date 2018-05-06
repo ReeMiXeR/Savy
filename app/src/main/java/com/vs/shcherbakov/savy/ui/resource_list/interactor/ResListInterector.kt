@@ -19,7 +19,7 @@ import javax.inject.Inject
 class ResListInterector : BaseInteractor() {
 
     companion object {
-        private const val LIMIT = 15
+        private const val LIMIT = 30
     }
 
     @Inject

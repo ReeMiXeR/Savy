@@ -11,6 +11,7 @@ import com.bumptech.glide.load.model.LazyHeaders
 import com.vs.shcherbakov.savy.R
 import com.vs.shcherbakov.savy.data.PrefStorageImpl
 import com.vs.shcherbakov.savy.model.ResItem
+import com.vs.shcherbakov.savy.utils.formatSize
 import kotlinx.android.synthetic.main.item_resource_long.view.*
 import kotlinx.android.synthetic.main.popup_more_actions.view.*
 
@@ -38,7 +39,7 @@ class ResourceLongViewHolder(
         resourceName.text = resource.name
         dateModified.text = resource.modified
         if (!resource.isDir) {
-            size.text = resource.contentLength.toString()
+            size.text = formatSize(resource.contentLength)
         }
 
 
@@ -57,8 +58,10 @@ class ResourceLongViewHolder(
                             .load(GlideUrl(resource.previewUrl, LazyHeaders.Builder()
                                     .addHeader("Authorization", "OAuth " + PrefStorageImpl(view.context).getUserToken())
                                     .build()))
-                            .placeholder(R.drawable.ic_image)
+                            .asBitmap()
                             .centerCrop()
+                            .placeholder(R.drawable.ic_image)
+                            .dontAnimate()
                             .into(image)
                 } else {
                     image.setImageResource(R.drawable.ic_image)

@@ -7,6 +7,10 @@ import com.vs.shcherbakov.savy.R
 import com.vs.shcherbakov.savy.model.ResItem
 import com.vs.shcherbakov.savy.ui.resource_list.view.adapter.holders.ResourceLongViewHolder
 import com.vs.shcherbakov.savy.ui.resource_list.view.adapter.holders.ResourceSmallViewHolder
+import com.bumptech.glide.Glide
+import kotlinx.android.synthetic.main.item_resource_long.view.*
+import kotlinx.android.synthetic.main.item_resource_small.view.*
+
 
 class ResourceListAdapter(
         private val clickListener: (ResItem) -> Unit,
@@ -20,7 +24,6 @@ class ResourceListAdapter(
             if (viewType == 1) ResourceLongViewHolder(LayoutInflater.from(parent.context).inflate(R.layout.item_resource_long, parent, false))
             else ResourceSmallViewHolder(LayoutInflater.from(parent.context).inflate(R.layout.item_resource_small, parent, false))
 
-
     override fun getItemCount(): Int = items.size
 
     override fun onBindViewHolder(holder: RecyclerView.ViewHolder, position: Int) =
@@ -29,6 +32,12 @@ class ResourceListAdapter(
             } else {
                 (holder as ResourceSmallViewHolder).bind(items[position], clickListener, deleteClickListener)
             }
+
+    override fun onViewRecycled(holder: RecyclerView.ViewHolder) {
+        super.onViewRecycled(holder)
+        if (holder is ResourceLongViewHolder) Glide.clear(holder.itemView.resource_image3)
+        else Glide.clear(holder.itemView.resource_image)
+    }
 
     fun addItems(resList: List<ResItem>) {
         val oldSize = items.size

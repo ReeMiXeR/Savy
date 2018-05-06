@@ -60,3 +60,9 @@ fun FragmentActivity.addFragmentToBackStack(@IdRes containerViewId: Int, fragmen
         if (executeNow) executePendingTransactions()
     }
 }
+
+fun formatSize(v: Long): String {
+    if (v < 1024) return v.toString() + " B"
+    val z = (63 - java.lang.Long.numberOfLeadingZeros(v)) / 10
+    return String.format("%.1f %sB", v.toDouble() / (1L shl z * 10), " KMGTPE"[z])
+}

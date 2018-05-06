@@ -18,7 +18,7 @@ import javax.inject.Inject
 class ImageListInterector : BaseInteractor() {
 
     companion object {
-        private const val LIMIT = 15
+        private const val LIMIT = 30
     }
 
     @Inject
