@@ -60,7 +60,7 @@ class ResListFragment : BaseFragment(), ResourceListView, CreateFolderDialog.Fol
         arguments?.getString(KEY_PATH)?.let {
             presenter.loadListItems(it)
             toolbar_path.text = it
-            if (it == "/") toolbar_back.visibility = View.GONE
+            if (it == "/") toolbar_back.visibility = View.INVISIBLE
         }
 
 
