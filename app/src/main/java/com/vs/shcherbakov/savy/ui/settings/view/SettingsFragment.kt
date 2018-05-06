@@ -33,7 +33,8 @@ class SettingsFragment : BaseFragment(), SettingsView {
     }
 
     private fun initToolbar() {
-        toolbar_back.visibility = View.GONE
+        toolbar_back.visibility = View.INVISIBLE
+        toolbar_back.isClickable = false
         toolbar_columns.visibility = View.GONE
         with(toolbar_path) {
             text = "Настройки"

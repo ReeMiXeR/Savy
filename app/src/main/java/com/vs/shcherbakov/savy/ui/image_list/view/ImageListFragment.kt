@@ -88,7 +88,8 @@ class ImageListFragment : BaseFragment(), ImageListView {
     override fun showError() = state_view.showOffline()
 
     private fun initToolbar() {
-        toolbar_back.visibility = View.GONE
+        toolbar_back.visibility = View.INVISIBLE
+        toolbar_back.isClickable = false
         with(toolbar_path) {
             text = "Фото"
             textSize = 18f
