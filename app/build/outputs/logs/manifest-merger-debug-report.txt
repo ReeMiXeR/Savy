@@ -1,0 +1,209 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml:1:1-43:12
+INJECTED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml:1:1-43:12
+INJECTED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml:1:1-43:12
+INJECTED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml:1:1-43:12
+MERGED from [cz.kinst.jakub:android-stateful-layout-simple:2.0.7] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/android-stateful-layout-simple-2.0.7.aar/88bce4deb08a89be6769e08404ebf7d6/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:design:27.1.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/9f1223180070f3a23cf774f97f172910/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.dagger:dagger-android-support:2.14.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/dagger-android-support-2.14.1.aar/d453541e255a3a824036044e7e66e5a0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/59e5f56cd2e7b62b52a4b280a165a2ee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/bb777db18a04f87ae3db435c7077df43/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/578fe2529003adc308cdd878fc69067a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/83cf56e92bb5de5b2e0773287ab2ad7c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/2ef0860956c7a2a1950dc2adbbcac425/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/fcb4bfb4572cdf0fb45e2fa8a33cf41d/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.persistence.room:rxjava2:1.0.0] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/rxjava2-1.0.0.aar/db3ebe52cb3102f685b09fb87dbbc954/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:dagger-android:2.14.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/dagger-android-2.14.1.aar/cbd608d3619123a845ce682b092e7560/AndroidManifest.xml:17:1-22:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/17b3635639deded235fe6c1bac187af7/AndroidManifest.xml:15:1-21:12
+MERGED from [com.jakewharton.timber:timber:4.6.0] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/timber-4.6.0.aar/87dfde380a40b9cd62624f2848c9faa0/AndroidManifest.xml:2:1-10:12
+MERGED from [cz.kinst.jakub:android-stateful-layout-base:2.0.7] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/android-stateful-layout-base-2.0.7.aar/14a3dcd134e0fea816ec6b5b1c3c2fa4/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:transition:27.1.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/dbc48bdcbce3004dd90f99bfc83eff35/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.databinding:adapters:1.2.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/adapters-1.2.1.aar/c8cddcb3ba64bfce56ae1497f7d62fdb/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.databinding:library:1.2.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/library-1.2.1.aar/7e9d296bf6f533c1f19bc293ad6eadbe/AndroidManifest.xml:17:1-26:12
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4e9465321e08af85ee33290ceea18d43/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/c9c9c2aead0d345e77f288ce94aee0b9/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence:db:1.0.0] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/65b61c14d9fa378a66088d3c208f6618/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/99567cbe95094625681f88921dfe27b2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/bc45aea9eec628b1c57ce6ba9dc0dd95/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/4b5035de1c61a2c9e26927e41b0a189f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8fbc0d2ed50adeef39dd1f7558104c26/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/8197cb62a58cb57ac989503c7c219ab3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/80cdf6fdeb43e9f789fc453f7a100e60/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/fed5ee7fa57cd9e7b203d0cb84b1f1ba/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5bc0355b68524c094fdc54075451c5e3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c9dc820839fd8a3d14b3927d3f45b6a7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/0b9c6b2ca028ae402e1c588ce88554d9/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml:1:1-43:12
+INJECTED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml:1:1-43:12
+INJECTED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml:1:1-43:12
+	package
+		ADDED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml:2:5-38
+		INJECTED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml:1:1-43:12
+		INJECTED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml:1:1-43:12
+		INJECTED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml:6:22-68
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml:7:5-74
+	android:name
+		ADDED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml:7:22-71
+application
+ADDED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml:9:5-42:19
+MERGED from [cz.kinst.jakub:android-stateful-layout-simple:2.0.7] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/android-stateful-layout-simple-2.0.7.aar/88bce4deb08a89be6769e08404ebf7d6/AndroidManifest.xml:11:5-12:19
+MERGED from [cz.kinst.jakub:android-stateful-layout-simple:2.0.7] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/android-stateful-layout-simple-2.0.7.aar/88bce4deb08a89be6769e08404ebf7d6/AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/fcb4bfb4572cdf0fb45e2fa8a33cf41d/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/fcb4bfb4572cdf0fb45e2fa8a33cf41d/AndroidManifest.xml:9:5-20
+MERGED from [com.jakewharton.timber:timber:4.6.0] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/timber-4.6.0.aar/87dfde380a40b9cd62624f2848c9faa0/AndroidManifest.xml:8:5-20
+MERGED from [com.jakewharton.timber:timber:4.6.0] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/timber-4.6.0.aar/87dfde380a40b9cd62624f2848c9faa0/AndroidManifest.xml:8:5-20
+MERGED from [cz.kinst.jakub:android-stateful-layout-base:2.0.7] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/android-stateful-layout-base-2.0.7.aar/14a3dcd134e0fea816ec6b5b1c3c2fa4/AndroidManifest.xml:11:5-12:19
+MERGED from [cz.kinst.jakub:android-stateful-layout-base:2.0.7] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/android-stateful-layout-base-2.0.7.aar/14a3dcd134e0fea816ec6b5b1c3c2fa4/AndroidManifest.xml:11:5-12:19
+	android:supportsRtl
+		ADDED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml:16:9-40
+	android:name
+		ADDED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml:10:9-28
+activity#com.vs.shcherbakov.savy.ui.webview.view.WebViewActivity
+ADDED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml:19:9-21:65
+	android:label
+		ADDED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml:20:13-45
+	android:theme
+		ADDED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml:21:13-63
+	android:name
+		ADDED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml:19:19-66
+activity#com.vs.shcherbakov.savy.ui.auth.view.AuthActivity
+ADDED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml:23:9-31:20
+	android:screenOrientation
+		ADDED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml:25:13-49
+	android:theme
+		ADDED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml:26:13-44
+	android:name
+		ADDED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml:24:13-54
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml:29:27-74
+activity#com.vs.shcherbakov.savy.ui.main.view.MainActivity
+ADDED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml:33:9-37:51
+	android:screenOrientation
+		ADDED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml:37:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml:35:13-52
+	android:theme
+		ADDED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml:34:13-54
+activity#com.vs.shcherbakov.savy.ui.image.ImageActivity
+ADDED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml:39:9-41:47
+	android:theme
+		ADDED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml:41:13-44
+	android:name
+		ADDED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml:40:13-51
+uses-sdk
+INJECTED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml
+MERGED from [cz.kinst.jakub:android-stateful-layout-simple:2.0.7] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/android-stateful-layout-simple-2.0.7.aar/88bce4deb08a89be6769e08404ebf7d6/AndroidManifest.xml:7:5-9:41
+MERGED from [cz.kinst.jakub:android-stateful-layout-simple:2.0.7] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/android-stateful-layout-simple-2.0.7.aar/88bce4deb08a89be6769e08404ebf7d6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/9f1223180070f3a23cf774f97f172910/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/9f1223180070f3a23cf774f97f172910/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android-support:2.14.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/dagger-android-support-2.14.1.aar/d453541e255a3a824036044e7e66e5a0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android-support:2.14.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/dagger-android-support-2.14.1.aar/d453541e255a3a824036044e7e66e5a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/59e5f56cd2e7b62b52a4b280a165a2ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/59e5f56cd2e7b62b52a4b280a165a2ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/bb777db18a04f87ae3db435c7077df43/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/bb777db18a04f87ae3db435c7077df43/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/578fe2529003adc308cdd878fc69067a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/578fe2529003adc308cdd878fc69067a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/83cf56e92bb5de5b2e0773287ab2ad7c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/83cf56e92bb5de5b2e0773287ab2ad7c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/2ef0860956c7a2a1950dc2adbbcac425/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/2ef0860956c7a2a1950dc2adbbcac425/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/fcb4bfb4572cdf0fb45e2fa8a33cf41d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/fcb4bfb4572cdf0fb45e2fa8a33cf41d/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.persistence.room:rxjava2:1.0.0] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/rxjava2-1.0.0.aar/db3ebe52cb3102f685b09fb87dbbc954/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:rxjava2:1.0.0] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/rxjava2-1.0.0.aar/db3ebe52cb3102f685b09fb87dbbc954/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:dagger-android:2.14.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/dagger-android-2.14.1.aar/cbd608d3619123a845ce682b092e7560/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android:2.14.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/dagger-android-2.14.1.aar/cbd608d3619123a845ce682b092e7560/AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/17b3635639deded235fe6c1bac187af7/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/17b3635639deded235fe6c1bac187af7/AndroidManifest.xml:19:5-43
+MERGED from [com.jakewharton.timber:timber:4.6.0] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/timber-4.6.0.aar/87dfde380a40b9cd62624f2848c9faa0/AndroidManifest.xml:6:5-43
+MERGED from [com.jakewharton.timber:timber:4.6.0] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/timber-4.6.0.aar/87dfde380a40b9cd62624f2848c9faa0/AndroidManifest.xml:6:5-43
+MERGED from [cz.kinst.jakub:android-stateful-layout-base:2.0.7] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/android-stateful-layout-base-2.0.7.aar/14a3dcd134e0fea816ec6b5b1c3c2fa4/AndroidManifest.xml:7:5-9:41
+MERGED from [cz.kinst.jakub:android-stateful-layout-base:2.0.7] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/android-stateful-layout-base-2.0.7.aar/14a3dcd134e0fea816ec6b5b1c3c2fa4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:transition:27.1.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/dbc48bdcbce3004dd90f99bfc83eff35/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/dbc48bdcbce3004dd90f99bfc83eff35/AndroidManifest.xml:20:5-44
+MERGED from [com.android.databinding:adapters:1.2.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/adapters-1.2.1.aar/c8cddcb3ba64bfce56ae1497f7d62fdb/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:adapters:1.2.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/adapters-1.2.1.aar/c8cddcb3ba64bfce56ae1497f7d62fdb/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:library:1.2.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/library-1.2.1.aar/7e9d296bf6f533c1f19bc293ad6eadbe/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:library:1.2.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/library-1.2.1.aar/7e9d296bf6f533c1f19bc293ad6eadbe/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4e9465321e08af85ee33290ceea18d43/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4e9465321e08af85ee33290ceea18d43/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/c9c9c2aead0d345e77f288ce94aee0b9/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/c9c9c2aead0d345e77f288ce94aee0b9/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/65b61c14d9fa378a66088d3c208f6618/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/65b61c14d9fa378a66088d3c208f6618/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-v4:27.1.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/99567cbe95094625681f88921dfe27b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/99567cbe95094625681f88921dfe27b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/bc45aea9eec628b1c57ce6ba9dc0dd95/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/bc45aea9eec628b1c57ce6ba9dc0dd95/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/4b5035de1c61a2c9e26927e41b0a189f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/4b5035de1c61a2c9e26927e41b0a189f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8fbc0d2ed50adeef39dd1f7558104c26/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8fbc0d2ed50adeef39dd1f7558104c26/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/8197cb62a58cb57ac989503c7c219ab3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/8197cb62a58cb57ac989503c7c219ab3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/80cdf6fdeb43e9f789fc453f7a100e60/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/80cdf6fdeb43e9f789fc453f7a100e60/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/fed5ee7fa57cd9e7b203d0cb84b1f1ba/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/fed5ee7fa57cd9e7b203d0cb84b1f1ba/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5bc0355b68524c094fdc54075451c5e3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5bc0355b68524c094fdc54075451c5e3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c9dc820839fd8a3d14b3927d3f45b6a7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c9dc820839fd8a3d14b3927d3f45b6a7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/0b9c6b2ca028ae402e1c588ce88554d9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/vladshcherbakov/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/0b9c6b2ca028ae402e1c588ce88554d9/AndroidManifest.xml:20:5-44
+INJECTED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vladshcherbakov/Downloads/Savy/app/src/main/AndroidManifest.xml
